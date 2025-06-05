@@ -1,3 +1,5 @@
-# to_do_app
+# TO-DO APP
+## Proyecto en Flutter - Firebase
 
-A new Flutter project.
+Proyecto creado en Flutter y utilizando Firebase como Backend, utilizando Autenticacion y Cloud Firestore
+
